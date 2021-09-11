@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pra deep
+- 👋 Hi, I’m **@Pra deep
 - 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning Js
 <!---
